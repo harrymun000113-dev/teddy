@@ -1,3 +1,10 @@
+# Code Style Guidelines
+- Indentation: 2 spaces
+- Quotes: Single quotes (')
+- Naming: camelCase for variables, PascalCase for components
+- Strict Typing: Always use TypeScript interfaces in `src/types/`
+
+
 I want to design a webpage high quality bear is walking across the screen horizontally and is a pixel world. there is a red roof house, and bear is coming out from the forest then reach the house. the bear is medium sized, father of two. now before you make the code. can you make me markdown.md
 
 Your requested design specification document has been created:
